@@ -1,3 +1,3 @@
 # FractalFlames
 
-The main code is in src\FractalFlames.java
+The main code is in src/fractalflames/FractalFlames.java
